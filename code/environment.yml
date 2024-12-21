@@ -1,0 +1,11 @@
+name: beehive-conda
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - opencv
+  - matplotlib
+  - numpy
+  - pip
+  - pip:
+      - ipykernel
