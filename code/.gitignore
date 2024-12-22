@@ -2,6 +2,8 @@
 # to ignore mobile videos dataset
 /datasets/mobile-videos/*
 /datasets/pre-processed-mobile-videos/*
+/datasets/processed-frames/*
+/datasets/video-frames/*
 /datasets/.DS_Store
 
 
